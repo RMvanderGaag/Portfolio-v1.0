@@ -1,0 +1,201 @@
+body {
+	background-color: #92a8d1;
+	background-position: right;
+}
+
+img {
+	width: 475px;
+	border: solid black 2.5px;
+	top: 1%;
+	height: 300px;
+
+	}
+
+p{
+	font-size: 17px;
+
+	}
+h3{
+	font-size: 50px;
+	position: absolute;
+	top: 100px;
+	left: 47%;
+	font-family: "Times New Roman", Times, serif;
+}
+
+h1{
+	text-align: center;
+	font-size: 25px;
+}
+
+.box1 {
+	box-sizing: border-box;
+	border: 2.5px solid black;
+	width: 325px;
+	height: 310px;
+	padding: 7.5px;
+
+
+	position: absolute;
+	top: 1%;
+	left: 75%;
+
+	background-color: lightgrey;
+	}
+
+.box2 {
+	box-sizing: border-box;
+	border: 2.5px solid black;
+	width: 485px;
+	height: 325px;
+	padding: 7.5px;
+
+	position: absolute;
+	top: 57.5%;
+	left: 0.5%;
+
+	background-color: lightgrey;
+
+
+		}
+
+.box3 {
+	box-sizing: border-box;
+	border: 2.5px solid black;
+	width: 300px;
+	height: 325px;
+	padding: 7.5px;
+
+	position: absolute;
+	top: 57.5%;
+	left: 43.75%;
+
+	background-color: lightgrey;
+}
+
+.box4 {
+	box-sizing: border-box;
+	border: 2.5px solid black;
+	width: 325px;
+	height: 325px;
+	padding: 7.5px;
+
+	position: absolute;
+	top: 57.5%;
+	left: 75%;
+
+	background-color: lightgrey;
+}
+
+.buttonVolgende {
+	font-size: 25px;
+	cursor: pointer; 
+	
+	position: absolute;
+	top: 373px;
+	left: 600px;
+
+	color: black;
+	background-color: #92a8d1;
+	font-family: cursive;
+	text-decoration: none;
+
+}
+
+
+.buttonVolgende:hover {
+	color: #404040;
+}
+
+.hl {
+	border-left: 1440px solid black;
+	height: 2px;
+	position: absolute;
+	top: 350px;
+	left: 0px;
+	opacity: 0.75;
+	margin: auto;
+	
+
+}
+
+.hl1 {
+	border-left: 1440px solid black;
+	height: 2px;
+	position: absolute;
+	top: 440px;
+	left: 0px;
+	opacity: 0.75;
+	margin: auto;
+
+}
+
+
+.BoxSchool{
+	box-sizing: content-box;
+	border: 5px solid black;
+	width: 450px;
+	height: 300px;
+	padding: 7.5px;
+
+	left: 500px;
+
+	position: absolute;
+	background-color: lightgrey;
+}
+
+.BoxBaan{
+	box-sizing: content-box;
+	border: 5px solid black;
+	width: 350px;
+	height: 225px;
+	padding: 7.5px;
+	
+	top: 500px; 
+	left: 540px;
+
+	position: absolute;
+	background-color: lightgrey;
+}
+
+
+
+.hl2 {
+	border-left: 1440px solid black;
+	height: 2px;
+	position: absolute;
+	top: 440px;
+	left: 0px;
+	opacity: 0.75;
+	
+
+}
+
+.hl3 {
+	border-left: 1440px solid black;
+	height: 2px;
+	position: absolute;
+	top: 350px;
+	left: 0px;
+	opacity: 0.75;
+
+}
+
+.buttonTerug{
+	font-size: 25px;
+	cursor: pointer;
+	font-family: cursive;
+
+	position: absolute;
+	left: 690px;
+	top: 373px;
+
+	color: black;
+	background-color: #92a8d1;
+	text-decoration: none;
+
+}
+
+.buttonTerug:hover {
+	color: #404040;
+}
